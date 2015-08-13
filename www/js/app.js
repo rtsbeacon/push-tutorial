@@ -18,9 +18,9 @@ angular.module('starter', [
   // Identify app
   $ionicAppProvider.identify({
     // The App ID (from apps.ionic.io) for the server
-    app_id: '6a5ad240',
+    app_id: 'd1ee2f71',
     // The public API key all services will use for this app
-    api_key: '1eca23d1c6c75e8909ce2e7100b258e3eb2b6a161008116b',
+    api_key: 'af3278c34f42296df703b47588178ce7148ecea13329e644',
       // The GCM project number
     gcm_id: '820483141287',
     // Set the app to use development pushes
